@@ -49,3 +49,4 @@ Users should be able to:
 ## Author
 
 - GitHub - [Leon135](https://gitub.com/Leon135/)
+- Frontend Mentor - [@Leon135](https://www.frontendmentor.io/profile/Leon135)
